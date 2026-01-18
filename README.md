@@ -112,3 +112,5 @@ API errors return JSON with a clear message and status code. The server fails fa
 - Add CI configuration and environment checks.
 
 ## Author
+
+Andy Stevens
